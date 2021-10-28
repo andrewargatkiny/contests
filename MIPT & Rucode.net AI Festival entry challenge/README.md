@@ -4,6 +4,10 @@ https://rucode.net/iskusstvennyj-intellekt/#intens
 
 It was just 1 out of 15 tasks so I didn't focus on achieving 100% accuracy, but managed to easily score ~95% on test sample by finetuning a pretrained MobileNetV2.
 
+## Solution
+
+[ConvolutionalNN_taskMIPT.ipynb](ConvolutionalNN_taskMIPT.ipynb)
+
 ## The task
 
 Компанию RuCode попросили помочь в автоматизации выставления объявлений на одном известном сайте по продаже квартир.
