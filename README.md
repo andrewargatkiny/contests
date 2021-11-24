@@ -16,6 +16,10 @@ This is not an exhaustive list and it will be extended later.
 
 ## 4) [Kaggle Sber's Friends Dialogues Classification Challenge](Kaggle%20Sber's%20Friends%20Dialogues%20Classification%20Challenge/)
 
-$1^{st}$ place. The task was to learn to classify which character of "Friends" TV series a line of dialogue belongs to given scripts automatically translated to Russian.
+1<sup>st</sup> place. I was NLP task to classify which character of "Friends" TV series a line of dialogue belongs to given scripts automatically translated to Russian.
 
-I used BERT model pretrained on Russian language with some tricks. More info in repo.
+I used BERT model pretrained on Russian language with some tricks. Interestingly, almost pure baseline model turned out to be the best. But I also deployed numerous approaches including backtranslations, augmentations and architectural tweaks. Sometimes baseline is all you need!
+
+Another important implication of this contest is analysis of degradation/improvements in performance of the model in relation to information loss due to machine translation in style-dependent NLP tasks.
+
+More info in the repo.
