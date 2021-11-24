@@ -13,3 +13,9 @@ A contest to build restaraunts' recommender system for tourists given their pref
 I uploaded solution for only 1 of 15 tasks: to classify the images from realty web-site using transfer-learning.
 
 This is not an exhaustive list and it will be extended later.
+
+## 4) [Kaggle Sber's Friends Dialogues Classification Challenge](Kaggle%20Sber's%20Friends%20Dialogues%20Classification%20Challenge/)
+
+$1^{st}$ place. The task was to learn to classify which character of "Friends" TV series a line of dialogue belongs to given scripts automatically translated to Russian.
+
+I used BERT model pretrained on Russian language with some tricks. More info in repo.
